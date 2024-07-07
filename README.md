@@ -6,6 +6,9 @@ Forage Job simulation for travel data on British Airways
 -Present your insights in using PowerPoint
 
 
+Link	[title](https://www.example.com)
+Image	![alt text](image.jpg)
+
 #Task 2
 -Prepare a dataset
 -Train a machine learning model
