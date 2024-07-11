@@ -5,9 +5,7 @@ Forage Job simulation for travel data on British Airways
 * Scrape and collect customer feedback by analysing third-party data
 * Present your insights in using PowerPoint
 
-
-Link	[title](https://www.example.com)
-Image	![alt text](image.jpg)
+![](https://github.com/begindeveloper/British_Airways_DataScience/blob/main/British%20Airways%20Project/images/Task%201%20picture.png))
 
 #[Task 2: Build a predictive model for the data to influence buying behaviour]
 * Prepare a dataset
