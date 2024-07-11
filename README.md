@@ -5,7 +5,7 @@ Forage Job simulation for travel data on British Airways
 * Scrape and collect customer feedback by analysing third-party data
 * Present your insights in using PowerPoint
 
-![Task One Visual](https://github.com/begindeveloper/British_Airways_DataScience/blob/main/British%20Airways%20Project/images/Task%201%20picture.png)
+<img src="https://github.com/begindeveloper/British_Airways_DataScience/blob/main/British%20Airways%20Project/images/Task%201%20picture.png" width="400" height="400">
 
 ## [Task 2: Build a predictive model for the data to influence buying behaviour]
 * Prepare a dataset
@@ -16,15 +16,16 @@ Forage Job simulation for travel data on British Airways
 Visualizations for Task 2:
 
 
-![Average Number of Passengers](https://github.com/begindeveloper/British_Airways_DataScience/blob/main/British%20Airways%20Project/images/avg%20num%20passengers%20per%20day.jpg)
+![Average Number of Passengers]
+<img src="https://github.com/begindeveloper/British_Airways_DataScience/blob/main/British%20Airways%20Project/images/avg%20num%20passengers%20per%20day.jpg" width="400" height="400">
 
 
-![Flight Routes and Booking Origin](https://github.com/begindeveloper/British_Airways_DataScience/blob/main/British%20Airways%20Project/images/flight%20routes%20and%20booking%20origin.png)
+![Flight Routes and Booking Origin]<img src=https://github.com/begindeveloper/British_Airways_DataScience/blob/main/British%20Airways%20Project/images/flight%20routes%20and%20booking%20origin.png width="400" height="400">
 
 
-![HeatMap](https://github.com/begindeveloper/British_Airways_DataScience/blob/main/British%20Airways%20Project/images/heatmap.png)
+![HeatMap]<img src=https://github.com/begindeveloper/British_Airways_DataScience/blob/main/British%20Airways%20Project/images/heatmap.png width="400" height="400">
 
 
-![Passenger Distribution](https://github.com/begindeveloper/British_Airways_DataScience/blob/main/British%20Airways%20Project/images/passenger%20distri.png)
+![Passenger Distribution]<img src=https://github.com/begindeveloper/British_Airways_DataScience/blob/main/British%20Airways%20Project/images/passenger%20distri.png width="400" height="400">
 
 I was able to build and visualize the data required to help British Airways facilitate a better systems and processes. In most cases, this could help an airline discover where they make the most profits and how they can better serve their passengers.
